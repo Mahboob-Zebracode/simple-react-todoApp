@@ -2,7 +2,7 @@
   "name": "todoapp-new",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Mahboob-Zebracode.github.io/simple-react-todoApp"
+  "homepage": "http://Mahboob-Zebracode.github.io/simple-react-todoApp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
